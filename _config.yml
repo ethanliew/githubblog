@@ -17,7 +17,7 @@ title: Ethan Liew Blog
 email: ethanliew.now@gmail.com
 description: 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "githubblog.redoomph.com/githubblog" # the base hostname & protocol for your site, e.g. http://example.com
+url: "githubblog.redoomph.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ethanliew
 github_username:  ethanliew
 
