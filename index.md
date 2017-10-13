@@ -3,6 +3,6 @@
 layout: home
 
 
-#### Hello visitor!
+# Hello visitor!
 
 ---
