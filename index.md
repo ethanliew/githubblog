@@ -1,8 +1,11 @@
 ---
- 
+
+
+Hello visitor!
+
 layout: home
 
 
-# Hello visitor!
+
 
 ---
